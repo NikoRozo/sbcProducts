@@ -23,4 +23,5 @@ Esta es una aplicación Spring Boot construida con Maven que proporciona servici
 Para compilar el proyecto, ejecutar:
 
 ```bash
-mvn clean install# sbcProducts
+mvn clean install
+```
